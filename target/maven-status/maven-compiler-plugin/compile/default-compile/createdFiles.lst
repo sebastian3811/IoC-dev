@@ -1,0 +1,5 @@
+com/ioc/ioc/repositories/ProductRepository.class
+com/ioc/ioc/IocApplication.class
+com/ioc/ioc/models/Product.class
+com/ioc/ioc/controllers/ServiceController.class
+com/ioc/ioc/services/ProductService.class
